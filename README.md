@@ -16,4 +16,4 @@
 💌 私のプロフィールをご覧いただきありがとうございます! 
 </pre>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:903322400077279253)](https://discord.com/users/:903322400077279253)
+[![Discord Presence](api.lanyard.rest/v1/users/903322400077279253)](https://discord.com/users/:903322400077279253)
