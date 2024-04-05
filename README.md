@@ -16,6 +16,3 @@
 💌 私のプロフィールをご覧いただきありがとうございます! 
 </pre>
 ##
-[![Discord Presence](https://lanyard.cnrad.dev/api/903322400077279253)](https://discord.com/users/903322400077279253)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoukoCode)](https://github.com/anuraghazra/github-readme-stats)
-
